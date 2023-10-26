@@ -1,0 +1,13 @@
+{
+  "name": "skandesh",
+  "version": "1.1.0",
+  "bin": {
+    "skandesh": "index.js"
+  },
+  "scripts": {
+    "skandesh": "node index.js"
+  },
+  "dependencies": {
+    "skandesh": "^1.0.0"
+  }
+}
