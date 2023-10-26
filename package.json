@@ -1,6 +1,7 @@
 {
   "name": "skandesh",
-  "version": "1.1.1",
+  "description": "Get to know skandesh through this command",
+  "version": "1.0.0",
   "bin": {
     "skandesh": "index.js"
   },
@@ -9,5 +10,8 @@
   },
   "dependencies": {
     "skandesh": "^1.0.0"
-  }
+  },
+  "keywords": [
+    "skandesh"
+  ]
 }
